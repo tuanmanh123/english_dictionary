@@ -1,3 +1,33 @@
-hello	xin chao
-goodbye	tam biet
-sorry	xin loi
+Belly	bụng
+Blood	máu
+Body	cơ thể
+Body part	bộ phận cơ thể
+Bone	xương
+Bottom	mông
+Brain	não
+Chest	ngực, lồng ngực
+Ear	tai
+Eye	mắt
+Face	khuôn mặt
+Finger	ngón tay
+Foot	bàn chân
+Hair	tóc
+Hand	bàn tay
+Head	đầu
+Heart	trái tim
+Hip	hông
+Leg	chân
+Lip	môi
+Mouth	miệng
+Neck	cổ
+Nose	mũi
+Shoulder	vai
+Skin	làn da
+Thigh	đùi
+Toe	ngón chân
+Tongue	lưỡi
+Tooth	răng
+Tuan	aac
+Waist	vòng eo, eo
+s	s
+s	s

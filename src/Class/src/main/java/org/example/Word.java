@@ -1,4 +1,4 @@
-package Class;
+package org.example;
 
 public class Word {
 

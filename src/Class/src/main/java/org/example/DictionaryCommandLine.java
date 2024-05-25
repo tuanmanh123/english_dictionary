@@ -1,4 +1,4 @@
-package Class;
+package org.example;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -6,22 +6,16 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class DictionaryCommandLine {
-    public void showAllWords(Dictionary dictionary) {
+    public ArrayList<Word> showAllWords(Dictionary dictionary) {
         ArrayList<Word> words = dictionary.getWords();
         if (words.isEmpty()) {
             System.out.println("Tu dien trong.");
-            return;
         }
 
         // Sort the words alphabetically
         Collections.sort(words, Comparator.comparing(Word::getWord_target));
 
-        // Display the words
-        System.out.println("No | English | Vietnamese");
-        for (int i = 0; i < words.size(); i++) {
-            Word word = words.get(i);
-            System.out.printf("%d | %s | %s%n", i + 1, word.getWord_target(), word.getWord_explain());
-        }
+        return words;
     }
 
 

@@ -1,4 +1,4 @@
-package Class;
+package org.example;
 
 import java.util.ArrayList;
 
@@ -18,6 +18,8 @@ public class Dictionary {
         public ArrayList<Word> getWords() {
             return words;
         }
+
+        public Word get_A_Word(int i){return words.get(i);};
 
         public int getLength(){
             int i=words.size();
