@@ -27,7 +27,8 @@ Thigh	đùi
 Toe	ngón chân
 Tongue	lưỡi
 Tooth	răng
-Tuan	aac
 Waist	vòng eo, eo
+blue moon	blue moon
+s	123
 s	s
-s	s
+tuan	abc
